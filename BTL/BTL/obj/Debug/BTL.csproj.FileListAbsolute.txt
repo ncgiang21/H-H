@@ -1,0 +1,11 @@
+C:\Users\nguye\Desktop\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\nguye\Desktop\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\nguye\Desktop\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\nguye\Desktop\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\BTL\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Desktop\BTL\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\nguye\Desktop\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\nguye\Desktop\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\nguye\Desktop\BTL\BTL\obj\Debug\BTL.pdb
